@@ -1,3 +1,6 @@
+![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)
+
+
 # Python 101: Data Analysis with NumPy & Pandas
 
 Welcome to my beginner-friendly data analysis project using **Python**, **NumPy**, and **Pandas** — a practical, hands-on introduction to some of the most widely-used tools in data science.
